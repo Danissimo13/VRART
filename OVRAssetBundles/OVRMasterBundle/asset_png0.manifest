@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1990718209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef303f1f5e0a4dddb342b935585c5975
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/textures/Museum(mobile)_TEX01.png
+- Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/fx_fire_ball_b.png
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/textures/Museum(mobile)_MetalCylinder_TEX01.png
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/textures/Museum(mobile)_TEX02b.png
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/textures/Museum(mobile)_Shadow_TEX01.png
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/textures/Museum(mobile)_Light01_TEX01.png
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/textures/Museum(mobile)_TEX02a.png
+Dependencies: []

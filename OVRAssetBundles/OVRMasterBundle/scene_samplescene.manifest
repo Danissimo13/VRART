@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 388809888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be83294b5b4ba68f4a5bf1b08e1c54a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 548a44ac9705b6a45ef83b743928ed59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ae26e19cd956134bbdf3c6f65bf393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7448815bd5148434682b3d931066cd10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a2a9c34df4095f47b9ca8f975175f5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ed58339e09c0a448922ce59930bb4f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe8ed6478630d3a47914c90f25cd3c49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dbe282a747b65c54d9120d078604c0d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1d0259309734054882c48ca575866e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dd6b2a178636ff4c822fbf2c1cf6a7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81bd2915d2e265b43a76ff88ef02d95e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 222550bc955075a4dbce140a4bdf6f7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/SampleScene.unity
+Dependencies:
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_resources

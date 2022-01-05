@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1664346040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 481f015042c3d8f7ced109af52fde996
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3ba6e4222f9e5303899a7237fc545b30
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd425c2d06f39bf4899d07c05d0f10eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79b7e65854ace8f44b05c52c6e824354, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b388ff4c8d1f3644a143b16d45403ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
+- Assets/Oculus/SampleFramework/Core/DistanceGrab/Prefabs/DistanceGrabHandLeft.prefab
+- Assets/Oculus/SampleFramework/Core/DistanceGrab/Prefabs/DistanceGrabHandRight.prefab
+- Assets/ASATEC/Museum(mobile)/01_Prefab/PR_Museum(mobile).prefab
+Dependencies:
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_mat0

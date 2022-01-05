@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 4143518974
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d8b58ed5c42aa6de5060e7f03624b80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 429c70b1dd2e0921410148290decd251
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ed58339e09c0a448922ce59930bb4f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dd6b2a178636ff4c822fbf2c1cf6a7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 222550bc955075a4dbce140a4bdf6f7d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/Resources/Sounds/waterfall.mp3
+- Assets/Resources/Sounds/boom.mp3
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/Resources/Prefabs/HandPresence.prefab
+- Assets/Resources/Images/Materials/CruellPictureMaterialWhite.mat
+- Assets/Resources/Prefabs/fx_fire_ball_b.prefab
+- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/Resources/Materials/Noise.mat
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/Resources/Images/road.jpg
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/Resources/Images/smooth_road.png
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/Resources/Images/waterfall.jpg
+- Assets/Resources/Images/Materials/waterfall.mat
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/Resources/ONSPSettings.asset
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+- Assets/Resources/Prefabs/WaterfallEffectPrefab.prefab
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/Resources/Images/Materials/miniature_road.mat
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
+- Assets/Resources/Images/Materials/smooth_road.mat
+- Assets/Resources/Images/miniature_road.png
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
+- Assets/Resources/Materials/Noise.shader
+- Assets/Resources/Images/CruellWhite.png
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/Resources/Images/CruellRed.png
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/Resources/Images/Materials/CruellPictureMaterialRed.mat
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
+Dependencies:
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_mat0

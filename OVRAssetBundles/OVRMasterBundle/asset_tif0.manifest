@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2734400672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4d53839e0d537c8ccbf44e1d28cfb8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Glitter_Waterfall/Glitter_Waterfall/Textures/Glitter_TextureSheet.tif
+Dependencies: []

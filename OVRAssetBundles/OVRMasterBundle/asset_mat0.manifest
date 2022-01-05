@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1077018572
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c25a93268cf07bf24d29b5abbeb4cb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/materials/Museum(mobile)_MetalCylinder_TEX01.mat
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/materials/Museum(mobile)_Shadow_TEX01.mat
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/materials/Museum(mobile)_TEX02a.mat
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/materials/Museum(mobile)_Light01_TEX01.mat
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/materials/Museum(mobile)_TEX02b.mat
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/materials/LMuseum(mobile)_Light01.mat
+- Assets/FX_Kandol_Pack/FX_effect_sprite_image01/FX_fire_effects_free/Textures/fx_fire/Materials/fx_fire_ball_b.mat
+- Assets/ASATEC/Museum(mobile)/02_Data/Museum(mobile)/materials/Museum(mobile)_TEX01.mat
+- Assets/Glitter_Waterfall/Glitter_Waterfall/FBX/Materials/Waterfall_Glitter_mtl.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+Dependencies:
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Danissimo/InfoLabVrArt/InfoLabVrArt/OVRAssetBundles/OVRMasterBundle/asset_tif0
